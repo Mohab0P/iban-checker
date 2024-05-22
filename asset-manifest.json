@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iban-checker/static/css/main.fe8926f5.css",
+    "main.js": "/iban-checker/static/js/main.63b61137.js",
+    "static/js/453.6ad719a8.chunk.js": "/iban-checker/static/js/453.6ad719a8.chunk.js",
+    "static/media/logo.svg": "/iban-checker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/iban-checker/index.html",
+    "main.fe8926f5.css.map": "/iban-checker/static/css/main.fe8926f5.css.map",
+    "main.63b61137.js.map": "/iban-checker/static/js/main.63b61137.js.map",
+    "453.6ad719a8.chunk.js.map": "/iban-checker/static/js/453.6ad719a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe8926f5.css",
+    "static/js/main.63b61137.js"
+  ]
+}
