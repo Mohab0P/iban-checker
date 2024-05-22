@@ -21,10 +21,11 @@ You can access the live version of this application here.
 
 ## Usage
 
-    Select your preferred language (English or Arabic) from the dropdown menu.
-    Enter a Saudi bank IBAN in the input field.
-    Click the "Submit" button to validate the IBAN.
-    If the IBAN is valid, the corresponding bank information will be displayed. Otherwise, an error message will appear.
+1.Select your preferred language (English or Arabic) from the dropdown menu.
+2.Enter a Saudi bank IBAN in the input field.
+3.Click the "Submit" button to validate the IBAN.
+4.If the IBAN is valid, the corresponding bank information will be displayed. Otherwise, an error message will appear.
+
 ## Installation
 
 To run this project locally, follow these steps:
